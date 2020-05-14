@@ -1,2 +1,2 @@
 # microservice-python
-A micro service designed to take in millions of financial data points and run ML analysis on them.
+A microservice that takes in millions of financial data points and runs ML analysis on them. The Python API will interact with a sister springboot Java microservice project feeding it the completed analysis.
