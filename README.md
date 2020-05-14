@@ -5,11 +5,7 @@
   * Feeding a sister [**_springboot Java microservice project_**][project-link] the completed analysis.
 ### Technology
 #### **Python**: 
-* numpy
-* pyplot
-* pandas 
-* sklearn 
-* flask
+* numpy, pyplot, pandas, sklearn, flask
 ### Quotes
 > "All models are wrong, but some are useful." George E. P. Box
 
