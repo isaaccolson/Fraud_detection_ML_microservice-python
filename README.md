@@ -14,5 +14,5 @@
 ### Quotes
 > "All models are wrong, but some are useful." George E. P. Box
 
-[project-link]: www.github.com/isaaccolson
+[project-link]: https://github.com/isaaccolson/Java
 [microservice-image]: https://abeyon.com/wp-content/uploads/2019/02/Microservice-1030x399.png
