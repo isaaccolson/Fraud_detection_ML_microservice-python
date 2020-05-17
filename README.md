@@ -11,6 +11,7 @@
  * 20/80 (test/train) data: 40% accuracy 
  * 50/50 data: 39% accuracy
  * 80/20 data: 45% accuracy
+ * API Call for single record fraud detection: 237 ms
 ### Quotes
 > "All models are wrong, but some are useful." George E. P. Box
 
